@@ -1,0 +1,13 @@
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.Form1.resources
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\bin\Debug\Tictactoe.exe.config
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\bin\Debug\Tictactoe.exe.manifest
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\bin\Debug\Tictactoe.application
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\bin\Debug\Tictactoe.exe
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\bin\Debug\Tictactoe.pdb
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Tictactoe.Properties.Resources.resources
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Tictactoe.exe.manifest
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Tictactoe.application
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Tictactoe.exe
+c:\users\siddesh\documents\visual studio 2013\Projects\Game\Game\obj\Debug\Tictactoe.pdb
